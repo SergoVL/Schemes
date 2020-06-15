@@ -1,0 +1,6 @@
+.region_name {
+	position: absolute;
+	top: 39px ; /* Расстояние от верхнего края */
+    left: 400px; /* Расстояние от левого края */ 
+    bottom: auto; right: 0;
+}
